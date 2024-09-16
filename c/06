@@ -1,0 +1,21 @@
+#include <stdio.h>
+
+int main(){
+    int i;
+    
+    printf("Enter a number for compression:- ");
+    scanf("%d %d", &i, &j);
+    
+    if(i>j){
+    
+        printf("%d is greater than %d, i, j");
+        
+    } else if (j>i){
+        printf("%d is greater than %d", j, i);
+    } else{
+        printf("Both are equal");
+    }
+    return 0;
+}
+    
+     
