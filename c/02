@@ -1,0 +1,9 @@
+#include <stdio.h>
+
+int main(){
+    printf("chaitanya ");
+    printf("swamidatta ");
+    printf("Rumade ");
+    
+    return 0;
+}
